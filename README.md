@@ -10,7 +10,7 @@ A Python script that allows you to rename files in bulk by removing or replacing
 
   Clone the repository to your local machine:
     
-      git clone https://github.com/sam-minns/rename-files/file-renaming-script.git
+      git clone https://github.com/sam-minns/rename-files.git
 
   Navigate to the cloned directory:
 
