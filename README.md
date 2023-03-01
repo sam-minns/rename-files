@@ -14,11 +14,11 @@ A Python script that allows you to rename files in bulk by removing or replacing
 
   Navigate to the cloned directory:
 
-      cd file-renaming-script
+      cd rename-files
 
    Run the script:
 
-      python file_renaming_script.py
+      python file_rename.py
 
 ## Usage
 
